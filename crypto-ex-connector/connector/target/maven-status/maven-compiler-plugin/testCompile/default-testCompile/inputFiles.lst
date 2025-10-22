@@ -1,0 +1,10 @@
+D:\code\hands-on-kafka\crypto-ex-connector\connector\src\test\java\org\ltk\connector\requestor\api\BinaneFutureRequesterTest.java
+D:\code\hands-on-kafka\crypto-ex-connector\connector\src\test\java\org\ltk\connector\requestor\api\BingXFutureRequesterTest.java
+D:\code\hands-on-kafka\crypto-ex-connector\connector\src\test\java\org\ltk\connector\requestor\api\OKXFutureRequesterTest.java
+D:\code\hands-on-kafka\crypto-ex-connector\connector\src\test\java\org\ltk\connector\requestor\ws\BinanceFutureWebSocketTest.java
+D:\code\hands-on-kafka\crypto-ex-connector\connector\src\test\java\org\ltk\connector\requestor\ws\BingXFutureWebSocketTest.java
+D:\code\hands-on-kafka\crypto-ex-connector\connector\src\test\java\org\ltk\connector\requestor\ws\BybitFutureWebSocketTest.java
+D:\code\hands-on-kafka\crypto-ex-connector\connector\src\test\java\org\ltk\connector\requestor\ws\OKXFutureWebSocketTest.java
+D:\code\hands-on-kafka\crypto-ex-connector\connector\src\test\java\org\ltk\connector\service\ExchangeServiceImplTest.java
+D:\code\hands-on-kafka\crypto-ex-connector\connector\src\test\java\org\ltk\connector\utils\HashAlgorithmTest.java
+D:\code\hands-on-kafka\crypto-ex-connector\connector\src\test\java\org\ltk\connector\utils\UrlBuilderTest.java
